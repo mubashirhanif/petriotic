@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "aisha@user.com",
+      "gender": "female",
+      "country": "Pakistan"
+    },
+    {
+      "id": "2",
+      "email": "bushra@user.com",
+      "gender": "female",
+      "country": "Canada"
+    },
+    {
+      "id": "3",
+      "email": "danyal@user.com",
+      "gender": "male",
+      "country": "Egypt"
+    },
+    {
+      "id": "4",
+      "email": "eeman@user.com",
+      "gender": "female",
+      "country": "France"
+    },
+    {
+      "id": "5",
+      "email": "fahad@user.com",
+      "gender": "male",
+      "country": "Pakistan"
+    },
+    {
+      "id": "6",
+      "email": "henry@user.com",
+      "gender": "male",
+      "country": "United Kingdom"
+    },
+    {
+      "id": "7",
+      "email": "indigo@user.com",
+      "gender": "female",
+      "country": "Australia"
+    },
+    {
+      "id": "8",
+      "email": "julie@user.com",
+      "gender": "female",
+      "country": "USA"
+    },
+    {
+      "id": "9",
+      "email": "khizer@user.com",
+      "gender": "male",
+      "country": "Qatar"
+    },
+    {
+      "id": "10",
+      "email": "lyba@user.com",
+      "gender": "female",
+      "country": "Australia"
+    }
+  ]
+}
